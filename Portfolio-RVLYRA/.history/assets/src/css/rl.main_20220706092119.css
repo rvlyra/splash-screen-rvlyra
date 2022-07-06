@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Mingzat&display=swap');
+
+* { 
+    margin: 0;
+    padding: 0;
+    box-sizing: content-box;
+}
+
+setcion, header {
+    font-family: 'Mingzat', sans-serif;
+}
+
+.header {
+    padding: 0;
+    margin: 0;
+    top: 0;
+
+    display:flex;
+    justify-content:center;
+    align-items:center;
+}
+.header {
+    border-bottom: 1px solid #4d4d4d ;
+}
